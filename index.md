@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate developer who enjoys working on a variety of projects, learning new technologies, and solving real-world problems through code.
 
 ## 🚀 About Me
-I'm a [brief description of your role, e.g., Full-stack Developer, Software Engineer, etc.]. I specialize in [technologies you're proficient in, e.g., JavaScript, Python, React, Node.js, etc.], and I'm always eager to learn and experiment with new tools and technologies.
+I'm a software developer who loves diving into technology and building things that matter. Currently, I'm workingon exciting projects that challenge me and help me grow. I’ve picked up a variety of skills along the way, butwhat really drives me is my curiosity—I’m always eager to learn something new and explore fresh ideas. I believein teamwork and value the chance to collaborate with others, sharing insights and learning together. I’m excitedabout the future and the opportunities to take on new challenges!
 
 - 🔭 I’m currently working on ReactJS with Springboot.
 - 🌱 I’m constantly learning more about latest technologies.
