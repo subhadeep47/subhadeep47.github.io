@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Rohan
+# 👋 Hi there! I'm Subhadeep
 
 Welcome to my GitHub profile! I'm a passionate developer who enjoys working on a variety of projects, learning new technologies, and solving real-world problems through code.
 
@@ -7,36 +7,32 @@ I'm a [brief description of your role, e.g., Full-stack Developer, Software Engi
 
 - 🔭 I’m currently working on ReactJS with Springboot.
 - 🌱 I’m constantly learning more about latest technologies.
-- 💬 Ask me about [specific topics you're happy to help with, like coding, specific technologies, or general advice].
-- 📚 I'm learning [anything you're currently studying or looking to improve].
-- 📫 You can reach me at [your email or any other contact method].
+- 📫 You can reach me at [subhadeep.saha.ofc@gmail.com].
 
 ## 🛠️ Technologies & Tools
 
 Here are some of the technologies I work with:
 
-- **Languages**: JavaScript, Python, Java, C++
-- **Frontend**: React, Vue, HTML, CSS, SASS
-- **Backend**: Node.js, Express, Django
+- **Languages**: JavaScript, Java, Python
+- **Frontend**: React, HTML, CSS, SASS
+- **Backend**: Node.js, Express, Springboot, Django
 - **Database**: MongoDB, PostgreSQL, MySQL
 - **Version Control**: Git, GitHub, GitLab
-- **Other Tools**: Docker, Kubernetes, Jenkins, AWS, Nginx, etc.
+- **Other Tools**: Docker, Kubernetes, Jenkins, AWS, etc.
 
 ## 📂 Featured Repositories
 
 Here are some of my notable projects:
 
-- [Project Name](link_to_repository) - Short description of the project.
-- [Project Name](link_to_repository) - Short description of the project.
-- [Project Name](link_to_repository) - Short description of the project.
+- [Share Story](https://github.com/subhadeep47/MERNProject) - Basic social application using MERN stack.
+- [To-Do-List](https://github.com/subhadeep47/ToDoList) - Basic To-Do-List application using JSP and JDBC in MVC architechture.
 
 Feel free to check them out and contribute if you'd like!
 
 ## 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- 🌐 [Portfolio](https://your-portfolio.com)
-- 📧 Email: [your.email@example.com]
+- 💼 [LinkedIn](www.linkedin.com/in/subhadeep-saha-3b9492210)
+- 📧 Email: [subhadeep.saha.ofc@gmail.com]
 
 ---
 
